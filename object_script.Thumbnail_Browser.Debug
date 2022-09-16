@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/qflowlayout.o
+debug/qitem.o
+debug/qpixmapdialog.o
+debug/qpixmaplabel.o
+debug/moc_mainwindow.o
+debug/moc_qitem.o
+debug/moc_qpixmapdialog.o
+debug/moc_qpixmaplabel.o

@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/qflowlayout.o
+release/qitem.o
+release/qpixmapdialog.o
+release/qpixmaplabel.o
+release/moc_mainwindow.o
+release/moc_qitem.o
+release/moc_qpixmapdialog.o
+release/moc_qpixmaplabel.o
