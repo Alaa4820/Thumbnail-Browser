@@ -7,6 +7,7 @@ uomini, “delfini” conterrà immagini il cui contenuto consiste in delfini, e
 Scopo dell’applicazione è di visualizzare tutte le categorie di immagini, ma
 anche di poter includere o escludere alcune categorie specifiche. La figura
 sottostante rappresenta un mockup dell’applicazione.
+
 ![image](https://user-images.githubusercontent.com/101665044/190850985-dae6cdf5-db6f-45b5-9048-e7b49a22791f.png)
 
 L’interfaccia deve essere in grado di:
